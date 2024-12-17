@@ -1,0 +1,2 @@
+# EllaRivardMidterm
+Creative Code Midterm 
